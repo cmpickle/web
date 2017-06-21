@@ -1,7 +1,13 @@
+border-top {
+	background-color: #3b5998
+}
+
 body {
 	font-family:"Arial", Serif;
 	background-color:#f4f4f4;
 	overflow-x: hidden;
+	margin: 0;
+	padding: 0;
 }
 
 .navbar {
@@ -29,6 +35,11 @@ body {
 .navbar a:hover {
 	background-color: #ddd;
 	color: #000;
+}
+
+.navbar ul {
+	margin-left: 0;
+	padding: 0;
 }
 
 .side-nav {
