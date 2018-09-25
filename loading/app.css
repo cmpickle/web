@@ -104,10 +104,24 @@
     width: 345px;
 }
 
+.background-masker.content-ending-1 {
+    top: 285px;
+    height: 12px;
+    left: 335px;
+    width: 10px;
+}
+
 .background-masker.content-spacing-2 {
     top: 297px;
     height: 5px;
     width: 345px;
+}
+
+.background-masker.content-ending-2 {
+    top: 302px;
+    height: 12px;
+    left: 315px;
+    width: 30px;
 }
 
 .background-masker.content-spacing-3 {
@@ -116,10 +130,24 @@
     width: 345px;
 }
 
+.background-masker.content-ending-3 {
+    top: 319px;
+    height: 12px;
+    left: 330px;
+    width: 15px;
+}
+
 .background-masker.content-spacing-4 {
     top: 331px;
     height: 5px;
     width: 345px;
+}
+
+.background-masker.content-ending-4 {
+    top: 336px;
+    height: 12px;
+    left: 300px;
+    width: 45px;
 }
 
 .background-masker.content-spacing-5 {
@@ -128,21 +156,35 @@
     width: 345px;
 }
 
+.background-masker.content-ending-5 {
+    top: 353px;
+    height: 12px;
+    left: 320px;
+    width: 25px;
+}
+
 .background-masker.content-spacing-6 {
-    top: 366px;
+    top: 365px;
     height: 5px;
     width: 345px;
 }
 
 .background-masker.content-spacing-7 {
-    top: 385px;
+    top: 382px;
     height: 5px;
     width: 345px;
 }
 
+.background-masker.content-ending-7 {
+    top: 387px;
+    height: 12px;
+    left: 330px;
+    width: 15px;
+}
+
 .background-masker.content-spacing-8 {
-    top: 402px;
-    height: 5px;
+    top: 399px;
+    height: 8px;
     width: 345px;
 }
 
